@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+psycopg[binary]
+pyjwt
+python-dotenv
+python-multipart
+anthropic
+pytest
+httpx
