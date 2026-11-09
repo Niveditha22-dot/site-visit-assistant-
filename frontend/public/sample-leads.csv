@@ -1,0 +1,5 @@
+name,phone,email,source,project,wants
+Ravi Desai,+91 98250 11111,ravi@example.test,property_portal,Project 1,2 BHK
+Ravi D,9825011111,,social_ad,,
+Meena Shah,9825022222,meena@example.test,hoarding_call,Project 2,3 BHK
+Bad Row,12345,,website,,
